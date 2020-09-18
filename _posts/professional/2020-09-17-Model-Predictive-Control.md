@@ -2,6 +2,6 @@
 layout: post
 title: Model Predictive Control
 subtitle: Internship @Mathworks
-tags: [Academic, Robots]
+tags: [Professional, Robots, Internship, Mathworks, Control]
 comments: false
 ---
