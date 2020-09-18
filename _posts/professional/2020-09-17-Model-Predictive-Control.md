@@ -1,7 +1,7 @@
 ---
 layout: post
-title: YouWasp
-subtitle: Platform for mobile material deposition
+title: Model Predictive Control
+subtitle: Internship @Mathworks
 tags: [Academic, Robots]
 comments: false
 ---
