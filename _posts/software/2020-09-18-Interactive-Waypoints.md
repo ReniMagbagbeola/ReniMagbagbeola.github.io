@@ -1,6 +1,6 @@
 ---
 layout: post
-title: interactive_waypoints
+title: Interactive Waypoints
 subtitle: List of interactive markers
 tags: [Professional, Ross Robotics, ROS]
 comments: false
