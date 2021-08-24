@@ -7,7 +7,6 @@ cover-img: /assets/img/posts/publications/map/map1.png
 thumbnail-img: /assets/img/posts/publications/map/map1.png
 share-img: /assets/img/posts/publications/map/map1.png
 comments: false
-date:
 ---
 [Mobile Agile Printer](https://ieeexplore.ieee.org/document/8593815) was my very first paper. It is a systems intergration work  that merges my own and [Daniel Butters'](https://www.linkedin.com/in/danielbutters/) MSc projects together. The paper covers two main topics - the omni-directionality of this custom mobile base and the (lack of) deterioration of arm end-effector trajectory during base motion. The central learning here is that printing-in-motion should be feasibile as the base motion is not drastically effecting the end-effector. Here is the video acompanying the paper:
 

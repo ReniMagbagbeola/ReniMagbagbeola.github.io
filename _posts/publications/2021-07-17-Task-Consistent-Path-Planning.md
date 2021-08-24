@@ -5,7 +5,7 @@ subtitle: Task-Consistent Path planning for mobile 3D printing
 cover-img: /assets/img/posts/publications/tcpp/tcpp1.jpg
 thumbnail-img: /assets/img/posts/publications/tcpp/tcpp1.jpg
 share-img: /assets/img/posts/publications/tcpp/tcpp1.jpg
-tags: [Publications, Robots]
+tags: [Publications]
 comments: false
 ---
 
