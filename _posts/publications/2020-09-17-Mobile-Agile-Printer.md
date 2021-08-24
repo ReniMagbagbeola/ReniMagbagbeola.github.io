@@ -3,8 +3,9 @@ layout: post
 title: MAP
 subtitle: A Mobile Agile Printer Robot for on-site Construction
 tags: [Publications, Robots, MSc Project]
-image: /assets/img/posts/publications/map/map1.png
-thumbnail: /assets/img/posts/publications/map/map1.png
+cover-img: /assets/img/posts/publications/map/map1.png
+thumbnail-img: /assets/img/posts/publications/map/map1.png
+share-img: /assets/img/posts/publications/map/map1.png
 comments: false
 ---
 [Mobile Agile Printer](https://ieeexplore.ieee.org/document/8593815) was my very first paper. It is a systems intergration work  that merges my own and [Daniel Butters'](https://www.linkedin.com/in/danielbutters/) MSc projects together.
@@ -21,5 +22,5 @@ One of my favourite parts of the project involved dealing with leg motion synchr
 
 
 <img src="/assets/img/posts/publications/map/map1.png" alt="">
-<img src="/assets/img/posts/publications/map/map2.png" alt="">
-<img src="/assets/img/posts/publications/map/map3.png" alt="">
+<img src="/assets/img/posts/publications/map/pedro.jpg" alt="">
+<img src="/assets/img/posts/publications/map/adreas.jpg" alt="">
