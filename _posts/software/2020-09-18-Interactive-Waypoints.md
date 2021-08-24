@@ -6,13 +6,8 @@ tags: [Professional, Ross Robotics, ROS]
 comments: false
 ---
 
-At some point while working for Ross Robotics I was tasked with 
-The need for a simple gui for creating repeatable waypoints for the robot to follow.
+At some point while working for Ross Robotics I was tasked with coming up with a solution for navigating the robot along predescribed waypoints. The idea was that someone using RR robots coudl define a path for them to follow many times. While, move_base provides a nice pose-to-pose functionality, such waypoint following was not supported by default at this time.
 
-I found the [follow waypoints](http://wiki.ros.org/follow_waypoints) repository however it had a few major shortcomings. There was no easy way to create 
-
-
-[interactive waypoints](https://github.com/JuliusSustarevas/interactive_waypoints)
-
+Looking around online I've foind the [follow waypoints](http://wiki.ros.org/follow_waypoints) repository. However it had a few major shortcomings. There was no easy way to edit, save and loard the paths. And so, I've made my own [interactive waypoints](https://github.com/JuliusSustarevas/interactive_waypoints) package that actually alows the user to play with the waypoints prior to exectution. Using interactive markers, the waypoints can be moved around, their order can be changed and a move_base command send out just from a rick-click menu.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/TEhuI_YelVc" frameborder="0" allowfullscreen></iframe>
