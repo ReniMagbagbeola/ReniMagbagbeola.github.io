@@ -521,7 +521,7 @@ footer .footer-custom-content {
   display: none;
 }
 .post-preview .post-image-small img {
-  max-width: 12.25rem;
+  max-width: 6.25rem;
   max-height: 6.25rem;
 }
 @media (max-width: 500px) {
