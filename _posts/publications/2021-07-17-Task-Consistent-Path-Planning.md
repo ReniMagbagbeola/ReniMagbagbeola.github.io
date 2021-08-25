@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TCPP
+title: TCPP 2021
 subtitle: Task-Consistent Path planning for mobile 3D printing
 cover-img: /assets/img/posts/publications/tcpp/tcpp1.png
 thumbnail-img: /assets/img/posts/publications/tcpp/tcpp1.png
