@@ -2,9 +2,9 @@
 layout: post
 title: TCPP
 subtitle: Task-Consistent Path planning for mobile 3D printing
-cover-img: /assets/img/posts/publications/tcpp/tcpp1.jpg
-thumbnail-img: /assets/img/posts/publications/tcpp/tcpp1.jpg
-share-img: /assets/img/posts/publications/tcpp/tcpp1.jpg
+cover-img: /assets/img/posts/publications/tcpp/tcpp1.png
+thumbnail-img: /assets/img/posts/publications/tcpp/tcpp1.png
+share-img: /assets/img/posts/publications/tcpp/tcpp1.png
 tags: [Publications]
 comments: false
 ---
@@ -15,4 +15,4 @@ comments: false
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/guyZEsBgakE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<img src="/assets/img/posts/publications/tcpp/tcpp3.jpg" alt="">
+<img src="/assets/img/posts/publications/tcpp/tcpp2.png" alt="">
