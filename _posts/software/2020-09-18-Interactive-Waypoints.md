@@ -2,7 +2,8 @@
 layout: post
 title: Interactive Waypoints
 subtitle: List of interactive waypoints
-tags: [Professional, Ross Robotics, ROS]
+tags: [Hobby]
+thumbnail-img: /assets/img/posts/professional/interactive_waypoints/iw.gif
 comments: false
 ---
 

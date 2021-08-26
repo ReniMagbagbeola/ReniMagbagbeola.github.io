@@ -17,9 +17,9 @@ author: Julius Sustarevas
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "About Me"
-  Hire Me: "Hire Me"  
-  Projects: "Projects"
+  # About Me: "About Me"
+  # Hire Me: "Hire Me"  
+  Projects: "tags"
 
 # --- Logo --- #
 
