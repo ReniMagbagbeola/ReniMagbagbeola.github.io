@@ -2,7 +2,7 @@
 layout: post
 title: ros_msgdict
 subtitle: ROS messages as app parameters
-tags: [Professional, Ross Robotics, ROS]
+tags: [Hobby]
 comments: false
 ---
 
