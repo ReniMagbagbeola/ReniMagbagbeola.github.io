@@ -2,7 +2,7 @@
 layout: post
 title: Connect-R
 subtitle: Hybrid Discrete-Continuous Path Planning for Lattice Traversal
-thumbnail-img: /assets/img/posts/professional/connectr/CR_demo_sim.gif
+thumbnail-img: /assets/img/posts/professional/connectr/paper_gif.gif
 cover-img: /assets/img/posts/professional/connectr/cover.png
 tags: [Professional]
 comments: false
