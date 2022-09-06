@@ -6,13 +6,13 @@
 # --- Required options --- #
 
 # Name of website
-title: Julius-Sustarevas
+title: Morenike Magbagbeola
 
 # Short description of your site
 description: A collection of works, blog posts and CV
 
 # Your name to show in the footer
-author: Julius Sustarevas
+author: Morenike Magbagbeola
 
 # --- List of links in the navigation bar --- #
 
@@ -39,11 +39,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "julius.sustarevas.16@ucl.ac.uk"
-  github: JuliusSustarevas
-  linkedin: juliussust
-  instagram: julius.1618
-  researchgate: Julius-Sustarevas-2
+  email: "morenike.magbagbeola.16@ucl.ac.uk"
+  github: ReniMagbagbeola
+  #linkedin: juliussust
+  #instagram: julius.1618
+  #researchgate: Julius-Sustarevas-2
   #  reddit: yourname
   # google-scholar: 0H8XZo4AAAAJ
   #  youtube: user/deanat78
@@ -65,14 +65,14 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: false
   linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "julius-sustarevas.com"
+# url-pretty: "julius-sustarevas.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
