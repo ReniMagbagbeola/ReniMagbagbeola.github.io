@@ -2,8 +2,8 @@
 layout: post
 title: Robotic Control Theory and Systems
 subtitle: Developing the Coursework for  module @UCL
-thumbnail-img: /assets/img/posts/professional/sensing_course/1.png
-cover-img: /assets/img/posts/professional/sensing_course/1.png
+thumbnail-img: /assets/img/robots.png
+cover-img: /assets/img/robots.png
 tags: [Professional]
 comments: false
 ---
