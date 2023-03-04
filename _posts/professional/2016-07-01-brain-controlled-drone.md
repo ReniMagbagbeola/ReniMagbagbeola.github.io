@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Drone From Scratch
-subtitle: Internship @Mathworks
+title: Brain Controlled Drone
+subtitle: Undergraduate Capstone Project
 cover-img: /assets/img/posts/professional/foam/foam1.jpg
 thumbnail-img: /assets/img/posts/professional/foam/foam.gif
 share-img: /assets/img/posts/professional/foam/foam1.jpg
-tags: [Professional]
+tags: [Edu]
 comments: false
 ---
 
