@@ -11,7 +11,7 @@ A year after the Quadcopter project, I went back to Mathworks for yet another in
 
 While I absolutely fell in love with optimal control, another awesome part of the project was the model-based design approach. I designed a full simscape (simbody) simulation of the hardware we had. This included all friction, motors, everything. It was fantastic to see that you can develop and just by switching a simulink block deploy and validate results in hardware. 
 
-<video width="320" height="240" controls>
+<video width="640" height="480" controls>
   <source type="video/mp4" src="/assets/img/posts/volcano_photos/volcano.mp4">
 </video>
 
