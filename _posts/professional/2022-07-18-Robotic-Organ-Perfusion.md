@@ -3,7 +3,6 @@ layout: post
 title: Robotic Organ Perfusion
 subtitle: Post Graduate research at WEISS
 cover-img: /assets/img/perfusion_machine_2.jpg
-thumbnail-img:  /assets/img/perfusion_machine_2.jpg
 tags: [Professional]
 comments: false
 ---
