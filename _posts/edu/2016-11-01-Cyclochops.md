@@ -16,7 +16,7 @@ The robot arm was modified from the "Maplin Robotic arm with USB and PC interfac
 <img src="/assets/img/posts/HelpingHand/15871013_10157955922495517_2042112932_n.jpg" alt="">
 <img src="/assets/img/posts/HelpingHand/motordriver1.jpg" alt="">
 
-A rudimentary wheeled platform was made for the robotic arm and controlled via the same four force sensors. The assignment between control of the robotic arm motors or the motors on the wheeled platform was controlled via a switch.
+A rudimentary wheeled platform was made for the robotic arm and controlled via the same four force sensors. The assignment between control of the robotic arm motors and the motors on the wheeled platform was controlled via a switch.
 
 
 
