@@ -3,11 +3,11 @@
 # set up your website you should go through all these settings and edit them, but after
 # the initial set up you won't need to come back to this file often.
 
-url: "https://m_magbagbeola.github.io"
+url: "https://renimagbagbeola.github.io"
 # --- Required options --- #
 
 # Name of website
-title: Morenike-Magbagbeola
+title: Morenike Magbagbeola
 
 # Short description of your site
 description: A collection of works, blog posts and CV
@@ -18,8 +18,8 @@ author: Morenike Magbagbeola
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  # About Me: "About Me"
-  # Hire Me: "Hire Me"  
+  About Me: "About Me"
+  Hire Me: "Hire Me"  
   Projects: "tags"
 
 # --- Logo --- #
@@ -40,7 +40,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "morenike.magbagbeola.16@ucl.ac.uk"
+  email: "reni_magbagbeola@yahoo.co.uk"
   github: ReniMagbagbeola
   #linkedin: juliussust
   #instagram: julius.1618
@@ -73,7 +73,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "m-magbagbeola.com"
+# url-pretty: "m-magbagbeola.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
