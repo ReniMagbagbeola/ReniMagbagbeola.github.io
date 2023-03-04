@@ -14,4 +14,4 @@ This was my first experience in a research lab. I worked in Chet Moritz lab for 
 
 External Links: 
 
-http://depts.washington.edu/moritlab/
+[Moritz Lab](http://depts.washington.edu/moritlab/)
