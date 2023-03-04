@@ -4,7 +4,6 @@ title: Gaseous Monitoring of Volcanic Activity
 subtitle: Design of a low-cost remote monitoring system to estimate volcanic activity
 cover-img: /assets/img/posts/volcano_photos/volcano_1.jpg
 thumbnail-img: /assets/img/posts/volcano_photos/IMG_3676.jpg
-share-img: /assets/img/posts/professional/mpc/expo.png
 tags: [Professional]
 comments: false
 ---
@@ -18,4 +17,4 @@ While I absolutely fell in love with optimal control, another awesome part of th
 
 The project, controllers and maths excersizes about them were shown off at poster session at MATLAB EXPO 2015:
 
-<img src="/assets/img/posts/professional/mpc/expo.png" alt="">
+
