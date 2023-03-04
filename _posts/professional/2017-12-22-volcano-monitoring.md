@@ -32,4 +32,4 @@ This was a fun project and elements of the work continues to be used by the seis
 
 
 External Links: 
-https://www.ucl.ac.uk/hazard-centre/sites/hazard_centre/files/egu_2018_finalcopy_low_ressmaleegu2018.pdf
+[EGU 2018](https://www.ucl.ac.uk/hazard-centre/sites/hazard_centre/files/egu_2018_finalcopy_low_ressmaleegu2018.pdf)
