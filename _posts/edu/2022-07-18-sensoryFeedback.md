@@ -1,6 +1,6 @@
 ---
 layout: post
-title:An AI Driven Approach to Autonomous Sensory Feedback
+title: An AI Driven Approach to Autonomous Sensory Feedback
 subtitle: PhD Research
 thumbnail-img: /assets/img/helping_hand_2.jpg
 cover-img: /assets/img/helping_hand_2.jpg
