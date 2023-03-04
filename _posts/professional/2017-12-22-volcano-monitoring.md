@@ -15,6 +15,8 @@ While I absolutely fell in love with optimal control, another awesome part of th
   <source type="video/mp4" src="/assets/img/posts/volcano_photos/volcano.mp4">
 </video>
 
+<iframe width="640" height="480" src="/assets/img/posts/volcano_photos/volcano.mp4" title="Volcanic Monitoring" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 The project, controllers and maths excersizes about them were shown off at poster session at MATLAB EXPO 2015:
 
 
