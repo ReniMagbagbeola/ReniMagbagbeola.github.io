@@ -13,12 +13,12 @@ title: Morenike Magbagbeola
 description: A collection of works, blog posts and CV
 
 # Your name to show in the footer
-author: Morenike Magbagbeola
+author: Morenike (Reni) Magbagbeola
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "About Me"
+  About Me: "AboutMe"
   Hire Me: "hireme"  
   Projects: "tags"
 
