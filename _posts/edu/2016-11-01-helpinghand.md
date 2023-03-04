@@ -2,7 +2,7 @@
 layout: post
 title: Helping Hand
 subtitle: Coursework on haptic teleoperaiton
-thumbnail-img: /assets/img/posts/helping_hand_2.jpg
+thumbnail-img: /assets/img/posts/helping_hand.jpg
 cover-img: /assets/img/posts/helping_hand.jpg
 tags: [Edu]
 comments: false
