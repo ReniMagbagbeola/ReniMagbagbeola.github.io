@@ -8,6 +8,6 @@ comments: false
 
 # About me
 
-Most of my research has focused on proprioception and using robotics (specifically robotics control) to provide intelligent and autonomous feedback. This culminated in my PhD in Adaptive Sensory Robotics where I explored using artifical intelligence to autonomously control vibrational feedback to prosthesis users. This allows for consistent perception of feedback for the user resulting in reduced neuropathic pain. 
+Most of my research has focused on proprioception and using robotics (specifically robotics control) to provide intelligent and autonomous feedback. The variability that biology gives when dealing with robotics makes for interesting control problems. This culminated in my PhD in Adaptive Sensory Robotics where I explored using artifical intelligence to autonomously control vibrational feedback to prosthesis users. This allows for consistent perception of feedback for the user resulting in reduced neuropathic pain. 
 
 Prior to the PhD I obtained a BSEE degree in Electrical Engineering (with a focus on Robotic Control) and a BSc in Applied Physics from the University of Washington (2:1 equivalent). As such I have extensive experience with hardware design and embedded engineering. After my bachelors I returned to the UK and completed an Msc degree in Robotics and Computation @UCL (Distinction). 
