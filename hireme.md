@@ -35,7 +35,7 @@ I have experience in the following areas:
 * Maths Tutor at Center for Learning and Undergraduate Enrichment (CLUE) @University of Washington. Specialising in teaching linear algebra to upwards of 60 students
 * Post graduate teaching assistant for Robotic Control Theory and Systems (6 years), Engineering Challenges (3 years), and Robotics Programming (1 year) @UCL
 * Lead PGTA for Robotic Control Theory and Systems (3 years) @UCL
-* Mathematics and computer science tutor for Oppidan Education
+* Mathematics and computer science tutor for Oppidan Education (5 years)
 * Private maths, physics and computer science tuition.
  
 ## Project highlights
