@@ -22,5 +22,4 @@ A rudimentary wheeled platform was made for the robotic arm and controlled via t
 
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/zI3apLY_KhM" title="Helping Hand" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zI3apLY_KhM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
