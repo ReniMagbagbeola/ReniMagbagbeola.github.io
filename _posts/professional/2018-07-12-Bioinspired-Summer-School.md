@@ -22,4 +22,7 @@ In 2018 and 2019 I was a teaching assistant for the project and spent a week wit
   <source type="video/mp4" src="/assets/img/posts/Bioinspired/bioinspired_compressed.mp4">
 </video>
 
+This was was conducted by [Rae Harbird](http://www0.cs.ucl.ac.uk/people/R.Harbird.html) and Stephen Hailes from UCL Computer Science
+
+External Links: 
 [outreach](https://www.ucl.ac.uk/computer-science/collaborate/schools-outreach)
