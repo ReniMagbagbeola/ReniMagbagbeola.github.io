@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hire Me
+title: About Me
 description: "A Robotics Engineer specialising in Controls, Human-Robot Interactions, and Perception"
 share: true
 comments: false
