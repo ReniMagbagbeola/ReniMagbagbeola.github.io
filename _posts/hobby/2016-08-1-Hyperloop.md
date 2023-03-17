@@ -13,6 +13,8 @@ So at some point during my junior year of undergrad, Elon Musk announced ouced t
 
 Our design won against 50 worldwide teams in our chosen category of saftey and in the top 10 for overall design. When presented at the competition we won several industry sponserships. This was a great experience in embedded control and system design as programming was conducted in C and C++ and I encounted my first experience with communication protocols (UART and CAN). 
 
+<img src="/assets/img/posts/Hyperloop/Hyperloop1.jpg" alt="">
 
 
-I worked with Antony Gigore and Jon Lundlee as part of the systems team but the wider hyperloop team was 60 people strong. 
+
+I worked with Antony Grigore and Jon Lundlee as part of the systems team but the wider hyperloop team was 60 people strong. 
