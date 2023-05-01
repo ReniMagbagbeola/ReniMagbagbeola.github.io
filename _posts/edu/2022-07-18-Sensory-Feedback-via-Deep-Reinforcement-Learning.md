@@ -7,4 +7,4 @@ cover-img: /assets/img/posts/reinforcement_learning/rl_algorithm2.png
 tags: [Edu]
 comments: false
 ---
-incoming
+This work is in the process of being published. As soon as I am able I will upload details :). Feel free to reach out via linkedin or email to enquire more
