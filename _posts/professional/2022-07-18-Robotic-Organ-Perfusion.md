@@ -16,5 +16,6 @@ Entire system is run from a raspberry pi and various communication protocopls su
 
 ##Links to selected publications
 
-[EMBC Paper](https://ieeexplore.ieee.org/document/9871028)
+[EMBC Paper](https://ieeexplore.ieee.org/document/9871028).
+
 [Springer Journal](https://link.springer.com/article/10.1007/s11548-023-02903-4)
