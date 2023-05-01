@@ -14,6 +14,7 @@ Currently working as a post graduate researcher in surgical robotics at the Well
 
 Entire system is run from a raspberry pi and various communication protocopls such as MODBUS, UART, RS232 AND RS485 are used to interface with oxygen, temperature, pressure, flow, and pH sensors. Current work revolves around creating an autonomous system that can provide ablation therapy to a wide range of organs for treatment of tumors.
 
-##Links to Publication
+##Links to selected publications
 
 [EMBC Paper](https://ieeexplore.ieee.org/document/9871028)
+[Springer Journal](https://link.springer.com/article/10.1007/s11548-023-02903-4)
