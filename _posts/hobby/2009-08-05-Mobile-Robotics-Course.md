@@ -16,4 +16,7 @@ The course was good fun as we built a maze solving robot from scratch in C. The 
 
 The video shows our final exam assessment. Needless to say it was a close call! 
 
+<iframe width="640" height="480" src="https://www.youtube.com/embed/NKUTLf-ZEnc" title="Mobile Robotics and Embedded Programming Harvard Course Final Maze" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> .
+
+
 This was a team based project. The other members of the team were Brian Fischer, Ferda Taylor, Andrew Wang, and Nan Jiang
