@@ -17,3 +17,6 @@ This work was primarily done in unity and my work specifcally looked into the fa
 
 This was an extremely fun competition and the judging panel (which included representatives from Intel labs) awarded us top prize. You can read more about the competition [here](https://centerforneurotech.uw.edu/engage-enable/post/vertigone-takes-top-prize-2015-tech-sandbox-competition). Following this, we did collaborative work within the university to test the device on patients with a varity of vestibular disorders but unfortnately the majority of the team (myself included) graduated before this could be completed. 
 
+<iframe width="640" height="480" src="https://www.youtube.com/embed/wr_24d3EpH0" title="CSNE Tech Sandbox 2015 Vertigone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This work was conducted with Justin Vrana, Maitham Naeemi, and Nile Wilson 
