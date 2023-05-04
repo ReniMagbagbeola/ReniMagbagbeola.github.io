@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Articles
 description: "A Robotics Engineer specialising in Controls, Embedded Systems, and Human-Robot Interactions"
 share: true
