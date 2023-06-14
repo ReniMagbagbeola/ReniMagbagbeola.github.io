@@ -15,8 +15,8 @@ I have experience in the following areas:
 
 * Experience with Robot Operating System (ROS) and ROS2 and integration with low level hardware
 * Programming expereince in Python (9 years), Matlab/Simulink (8 years), C (5 years), and C++ (3 years) 
-* Serial Communication protocols UART, I2C, SPi, Ethernet/IP, CAN, RS-232 AND RS-485
-* Hardware: Raspberry Pi, Arduino, BeagleBone, Nvidia Jetson, ESP 432
+* Communication protocols UART, I2C, SPi, Ethernet/IP, CAN, RS-232 AND RS-485
+* Hardware: Raspberry Pi, Arduino, BeagleBone, Nvidia Jetson, ESP 432, STM32, TI MSP
 * Hardware and sensor integration on custom robot platforms
 * Experience with Docker, Git, and Linux
 
