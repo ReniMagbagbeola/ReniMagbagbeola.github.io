@@ -19,3 +19,9 @@ Entire system is run from a raspberry pi and various communication protocopls su
 [EMBC Paper](https://ieeexplore.ieee.org/document/9871028).
 
 [Springer Journal](https://link.springer.com/article/10.1007/s11548-023-02903-4)
+
+<img src="/assets/img/weiss1.jpg" alt="">
+<img src="/assets/img/weiss2.jpg" alt="">
+<img src="/assets/img/weiss4.jpg" alt="">
+
+I am currently working on this project via an honorary contract from UCL. I was recently awarded an 80k grant to develop this work further and so am supervising research assistants and PhD students to continue the work moving forward. Several papers are pending publication and this remains to be a highly collaborative piece of work! Please contact me directly if you wish to know more 
