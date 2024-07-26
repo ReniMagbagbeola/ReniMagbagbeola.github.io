@@ -15,6 +15,8 @@ This work is ongoing and so I cannot go into detail via the website. If you woul
 
 <img src="/assets/img/job2.jpeg" alt="">
 
+<img src="/assets/img/20240725_141752.jpg" alt="">
+
 
 
 
