@@ -29,6 +29,12 @@ comments: false
 * **Magbagbeola, M. R**., Hailes, S., T. J., Miodownik, M., & Loureiro, R. C. (2022). [An AI-Based Model for Texture Classification from Vibrational Feedback: Towards Development of Self-Adapting Sensory Robotic Prosthesis](https://ieeexplore.ieee.org/document/9925430). The 9th IEEE RA/EMBS International Conference on Biomedical Robotics & Biomechatronics (BIOROB) 2022 (**Oral Presentation**)
 
 * **Magbagbeola, M. R.**, Doyle, K., Rai, Z., Lindenroth, L., Dwyer, G., Stilli, A., Davidson, B. R, & Stoyanov, D. (2023) [An Adaptable Research Platform for Ex Vivo Normothermic Machine Perfusion of the Liver](https://link.springer.com/article/10.1007/s11548-023-02903-4). International Journal of Computer Assisted Radiology and Surgery. (**Oral Presentation**)
-
+  
 * Rai, Zainab & **Magbagbeola, Morenike** & Doyle, Katie & Lindenroth, Lukas & Dwyer, George & Gander, Amir & Stilli, Agostino & Stoyanov, Danail & Davidson, Brian. (2023). [Ex Vivo Perfusion of Porcine Pancreas and Liver Sourced from Commercial Abattoirs after Circulatory Death as a Research Resource: A Methodological Study](https://pubmed.ncbi.nlm.nih.gov/37489433/). Methods and Protocols. 6. 66. 10.3390/mps6040066
+  
+### PhD Thesis:
+
+[An AI Driven Approach to Autonomous Sensory Feedback for Upper Limb Prosthesis](https://discovery.ucl.ac.uk/id/eprint/10152190/)
+
+
 
